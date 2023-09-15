@@ -1,4 +1,4 @@
-# This is an end to end Dog vision classification project using transfer learning
+# This is an end to end Dog Vision Classification project using transfer learning
 Unstructured Data > Deep Learning (TensorFlow) > Transfer Learning (TensorFlow Hub)
 
 
